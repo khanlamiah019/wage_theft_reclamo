@@ -4,6 +4,8 @@
 **Authors:** Meghan Kret EE'26 · Lamiah Khan EE'26 · Yufei Lin Art'26
 
 ---
+## Powerpoint & Video Demo
+🔗  https://www.figma.com/slides/PY0H8Qujloc2kHFLdHhYeC
 
 ## Live Prototype
 
